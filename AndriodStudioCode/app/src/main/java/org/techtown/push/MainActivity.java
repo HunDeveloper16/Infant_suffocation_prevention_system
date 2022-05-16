@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
         WebView webView = (WebView)findViewById(R.id.webView);
         webView.setWebViewClient(new WebViewClient());
         webView.setBackgroundColor(255);
-        //영상을 폭에 꽉 차게 할려고 했지만 먹히지 않음???
+        
         webView.getSettings().setLoadWithOverviewMode(true);
         webView.getSettings().setUseWideViewPort(true);
         //이건 최신 버전에서는 사용하지 않게됨
