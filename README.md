@@ -31,10 +31,12 @@
 ## 📌주요 기능
 - 영유아의 질식 사고 방지
 
-## 📌사용한 기술스택 & 툴
+## 🛠 사용한 기술스택 & 툴
 
 - Python, Java, Thonny, firebase , flask, SQLite, Atom, Raspbian, android Studio, GoogleSheets
 - CNN
+![image](https://user-images.githubusercontent.com/56526225/191230213-edf916ac-c7c8-434f-b0eb-da341eb15d25.png)
+
 
 
 
