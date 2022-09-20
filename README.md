@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/56526225/191228358-fffe27d6-e5e5-4308-b467-933fab38ed24.png)
 
 
-## 👉Infant-suffocation-prevention-system( 영유아 질식 사고 방지 시스템 ) 소개
+## 👉Infant_suffocation_prevention_system(영유아 질식 사고 방지 시스템) 소개
 영유아 질식 사고 방지 시스템입니다.
 ## 👉프로젝트 개요
 인공지능 CNN모델을 사용하여 모델을 학습시킨 뒤, 영유아의 곁에 모델이 주입된 카메라 시스템을 두고 영유아의 모습이 뒷모습으로 인식될시, 어플로 알람이 가게하는 시스템입니다.
@@ -32,6 +32,7 @@
 
 <br>
 ## 사용한 기술스택 & 툴
+
 - Python, Java, Thonny, firebase , flask, SQLite, Atom, Raspbian, android Studio, GoogleSheets
 - CNN
 
