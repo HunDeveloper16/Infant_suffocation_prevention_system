@@ -32,11 +32,11 @@
 - 영유아의 질식 사고 방지
 
 ## 🛠 사용한 기술스택 & 툴
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 - Python, Java, CNN, Thonny, firebase , flask, SQLite, Atom, Raspbian, android Studio, GoogleSheets
 
 ## 📌모델 성능 개선
 ![image](https://user-images.githubusercontent.com/56526225/191230428-06e81734-63aa-4257-9cec-73b8aa1bc9cd.png)
+
 
 
 
