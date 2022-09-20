@@ -25,12 +25,13 @@
 
 
 ## 👉시스템 설계도
-![image](https://user-images.githubusercontent.com/56526225/191227332-b7657099-038c-425d-91cd-8dc55fa0fb9e.png){: width="300" height="300"}
+![image](https://user-images.githubusercontent.com/56526225/191229650-7799cfd0-c4f2-407a-9faf-5846f1e6b496.png)
+
+
 <br>
 ## 👉주요 기능
 - 영유아의 질식 사고 방지
 
-<br>
 ## 사용한 기술스택 & 툴
 
 - Python, Java, Thonny, firebase , flask, SQLite, Atom, Raspbian, android Studio, GoogleSheets
