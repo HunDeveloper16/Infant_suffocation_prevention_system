@@ -38,5 +38,8 @@
 ![image](https://user-images.githubusercontent.com/56526225/191230213-edf916ac-c7c8-434f-b0eb-da341eb15d25.png)
 
 
+## 📌모델 성능 개선
+![image](https://user-images.githubusercontent.com/56526225/191230428-06e81734-63aa-4257-9cec-73b8aa1bc9cd.png)
+
 
 
