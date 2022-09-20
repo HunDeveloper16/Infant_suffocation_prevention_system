@@ -25,10 +25,8 @@
 
 
 ## 👉시스템 설계도
-![image](https://user-images.githubusercontent.com/56526225/191227332-b7657099-038c-425d-91cd-8dc55fa0fb9e.png) {: width="300" height="300"}
-
+![image](https://user-images.githubusercontent.com/56526225/191227332-b7657099-038c-425d-91cd-8dc55fa0fb9e.png){: width="300" height="300"}
 <br>
-
 ## 👉주요 기능
 - 영유아의 질식 사고 방지
 
