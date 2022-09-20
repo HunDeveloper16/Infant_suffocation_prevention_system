@@ -17,10 +17,6 @@
 
 <table>
   <tr>
-    <td colspan="2">Front-End</td>
-    <td colspan="4">Back-End</td>
-  </tr>
-  <tr>
     <td>이성훈</td>
     <td>박성용</td>
     <td>신효섭</td>
@@ -35,7 +31,7 @@
 </table>
 
 
-####시스템 설계도
+## 시스템 설계도
 ![image](https://user-images.githubusercontent.com/56526225/191227332-b7657099-038c-425d-91cd-8dc55fa0fb9e.png)
 
 <br>
@@ -44,10 +40,8 @@
 - 영유아의 질식 사고 방지
 
 <br>
-
-## 사용한 기술스택
-# 프론트엔드
-- React, Axios, Redux
-# 백엔드
-- Spring, JPA, MYSQL, GRADLE, GitHub, AWS, Spring Security
+## 사용한 기술스택 & 툴
+- Python, Java, Thonny, firebase , flask, SQLite, Atom, Raspbian, android Studio, GoogleSheets
+- CNN
+![image](https://user-images.githubusercontent.com/56526225/191227952-cf9479ef-5404-4de2-b9f0-0dd1d70a2372.png)
 
